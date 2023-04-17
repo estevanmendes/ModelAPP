@@ -1,0 +1,6 @@
+{"AUC":{"mean":98,"std":2},
+"Balanced Accuracy":{"mean":98,"std":2},
+"Accuracy":{"mean":98,"std":2},
+"Recall":{"mean":98,"std":2},
+"Precision":{"mean":98,"std":2},
+}
